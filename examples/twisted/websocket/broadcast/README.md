@@ -26,3 +26,4 @@ in your browser.
 To use the Python client, do
 
     python client.py
+
