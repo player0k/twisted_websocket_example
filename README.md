@@ -7,9 +7,6 @@ to all connected clients every second.
 
 Clients are provided for AutobahnJS and AutobahnPython.
 
-There is also a companion [example](https://github.com/crossbario/autobahn-android/tree/master/Demo/BroadcastClient) using AutobahnAndroid.
-
-
 Running
 -------
 
